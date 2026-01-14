@@ -50,6 +50,10 @@ Failure to do this may prevent the program from launching or activating correctl
 1. Click on "Panel" or (https://predator.systems/panel/subscriptions)
 2. Press Launcher, download it
 3. Run the application as **Administrator**
+4. Login with same account as created before
+5. Choose your product, press "LOAD"
+
+INGAME MENU KEY "INSERT"
 
 
 ---
