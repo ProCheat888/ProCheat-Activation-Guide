@@ -67,7 +67,7 @@ If activation fails:
 ---
 
 ## 🆘 Need Help?
-If you experience any issues, please open a support ticket in our Discord server and include:
+If you experience any issues, please open a support ticket in our [Discord](https://discord.gg/D4QDFNrBpM) server and include:
 - Your order ID
 - A brief description of the issue
 
