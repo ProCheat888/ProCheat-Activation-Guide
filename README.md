@@ -29,6 +29,7 @@ Before launching or installing the program:
 2. Disable any third-party antivirus software
 3. Ensure no security software is actively running in the background
 4. Download dControl and disable it - [dControl](https://m.majorgeeks.com/mg/getmirror/defender_control%2C1.html)
+5. [dControl](https://www.majorgeeks.com/files/details/defender_control.html)
 
 
 
